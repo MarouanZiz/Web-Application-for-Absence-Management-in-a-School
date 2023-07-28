@@ -1,7 +1,7 @@
 <h1 style="color:#6c63ff;"> Web Application for Absence Management in a School</h1>
 
 <p>
-    "Web Application for Absence Management in a School" is a comprehensive web application developed using J2EE technologies. The main objective of this project is to provide a school with a complete and user-friendly tool to efficiently manage student and staff absences.
+    Web Application for Absence Management in a School" is a comprehensive web application developed using J2EE technologies. The main objective of this project is to provide a school with a complete and user-friendly tool to efficiently manage student and staff absences.
 </p>
 
 <h2 style="color:#6c63ff;">Key Features:</h2>
@@ -15,7 +15,7 @@
 
 <h2 style="color:#6c63ff;">Technologies Used:</h2>
 <p>
-     "Web Application for Absence Management in a School" is built on a robust technology stack, leveraging the following technologies:
+     Web Application for Absence Management in a School" is built on a robust technology stack, leveraging the following technologies:
 </p>
 <ul>
     <li><strong>J2EE:</strong> For developing the server-side application logic and handling data processing tasks.</li>
