@@ -15,7 +15,7 @@
 
 <h2 style="color:#6c63ff;">Technologies Used:</h2>
 <p>
-     Web Application for Absence Management in a School" is built on a robust technology stack, leveraging the following technologies:
+     Web Application for Absence Management in a School is built on a robust technology stack, leveraging the following technologies:
 </p>
 <ul>
     <li><strong>J2EE:</strong> For developing the server-side application logic and handling data processing tasks.</li>
