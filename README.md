@@ -30,6 +30,3 @@
     We welcome contributions from the developer community to enhance the application's functionalities, improve user experience, and address any reported issues. You can contribute by submitting pull requests, suggesting new features, or reporting bugs.
 </p>
 
-<p>
-    Our vision is to create a powerful Absence Management Web Application that simplifies attendance tracking and promotes efficiency in schools. Thank you for your interest in our final year project! 📝
-</p>
